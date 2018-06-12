@@ -9,4 +9,4 @@ function pwd(cmd) {
 }
 
 
-module.exports.pwd = pwd;
+module.exports = pwd;
